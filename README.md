@@ -1,3 +1,3 @@
 # GEN-AI---Langchain - Models
 
-Studing and playing around with llM chat models.
+Studing and playing around with LLM chat models.
